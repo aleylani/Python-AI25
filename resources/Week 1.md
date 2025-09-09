@@ -1,4 +1,4 @@
-# Week 35 - Resources
+# Week 1 - Resources
 
 [Back to main page :house:](https://github.com/aleylani/Python-AI25)
 
