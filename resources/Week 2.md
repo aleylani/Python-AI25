@@ -34,10 +34,10 @@
 [list_comp_vid]: https://www.youtube.com/watch?v=AhSvKGTh28Q&list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-&index=22
 
 ## Lecture notes :mortar_board:
-- [for loop](https://github.com/aleylani/Python-AI24/blob/main/lectures/L03_for_statements.ipynb)
-- [lists](https://github.com/aleylani/Python-AI24/blob/main/lectures/L04_lists.ipynb)
-- [list comprehensions](https://github.com/aleylani/Python-AI24/blob/main/lectures/L04_list_comprehensions.ipynb)
-- [strings](https://github.com/aleylani/Python-AI24/blob/main/lectures/lectures/L05_strings.ipynb)
+- [for loop](https://github.com/aleylani/Python-AI25/blob/main/lectures/L03_for_statements.ipynb)
+- [lists](https://github.com/aleylani/Python-AI25/blob/main/lectures/L04_lists.ipynb)
+- [list comprehensions](https://github.com/aleylani/Python-AI25/blob/main/lectures/L04_list_comprehensions.ipynb)
+- [strings](https://github.com/aleylani/Python-AI25/blob/main/lectures/lectures/L05_strings.ipynb)
 
 
 ## Exercises :running:
